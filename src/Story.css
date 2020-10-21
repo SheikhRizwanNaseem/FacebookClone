@@ -1,0 +1,33 @@
+.story{
+    position: absolute;
+    left: 400px;
+    top: 30px;
+}
+
+.story > h4 {
+
+position: absolute;
+  top: 220px;
+  left: 10px;
+  color: white;
+  
+  
+}
+
+.story > img{
+  border-radius: 25px;
+  outline-width: 10px;
+
+}
+
+.avatar {
+
+     position: absolute;
+      top: 60px;
+      left: 10px;
+      background-color: rgb(218, 190, 190);
+      color: white;
+      border: 2px  solid blue;
+
+      
+    }

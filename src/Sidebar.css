@@ -1,0 +1,16 @@
+.sidebar{
+    position: absolute;
+    left: 0%;
+    padding: 0 30px;
+    }
+    .Row{
+        display: flex;
+        align-items: center;
+    }
+    .Row > h5{
+        margin-left: 10px;
+    }
+    .Row > h4{
+        margin-left: 15px;
+    }
+    

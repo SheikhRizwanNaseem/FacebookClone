@@ -1,0 +1,46 @@
+.messagecontainner{
+    
+    justify-content: space-between;
+    position: absolute;
+    left: 400px;
+    top: 420px;
+    background-color: wheat;
+    box-shadow: 0px 5px 8px -9px rgba(0 ,0,0,0.75);
+    width: 700px;
+    height: 150px;
+
+}
+
+.Input > input {
+    position: relative;
+    top: 30px;
+    border-radius: 25px;
+    height: 50px;
+    width: 600px;
+    outline-width: 0;
+    border: 0px ;
+}
+
+Input ::placeholder{
+    text-align: center
+
+}
+
+.Icons{
+    position: relative;
+    top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.VideoIcon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.PhotoIcon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.MoodIcon{
+    display: flex;
+    justify-content: space-evenly;
+}
